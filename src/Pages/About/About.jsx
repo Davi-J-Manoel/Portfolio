@@ -15,7 +15,7 @@ export default function About() {
       >
         <h2 className={styles.aboutTitle}>About me</h2>
         <p className={styles.aboutSubtitle}>
-          Here you can see more information about me and my current programming skills / stacks.
+          Here you can see more information about me and my current programming skills / tools.
         </p>
         <div className={styles.aboutContent}>
           <div className={styles.aboutContentContainer}>
@@ -52,7 +52,7 @@ export default function About() {
             </div>
           </div>
           <div className={styles.aboutContentSkills}>
-            <h3 className={styles.aboutContentTitle}> My Stacks </h3>
+            <h3 className={styles.aboutContentTitle}> My Skills </h3>
             <div className={styles.skills}>
               <div
                 className={styles.skill}
