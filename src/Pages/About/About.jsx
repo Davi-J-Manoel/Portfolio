@@ -23,7 +23,7 @@ export default function About() {
             <div className={styles.aboutContentTexts}>
               <p className={styles.aboutContentParagraphs}>
                 I'm a <strong>FullStack Developer</strong> and a{" "}
-                <strong>Software Engineering Student</strong>.I build Web
+                <strong>Software Engineering Student</strong>. I build Web
                 Applications focused in extract and implement the best ideas.
                 You can check some of my Projects in the next section.
               </p>
