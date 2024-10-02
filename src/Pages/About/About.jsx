@@ -106,7 +106,7 @@ export default function About() {
                 data-aos="zoom-out-up"
                 data-aos-duration="3000"
               >
-                .NET Core
+                ASP.NET Core
               </div>
               <div
                 className={styles.skill}
