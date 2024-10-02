@@ -91,7 +91,7 @@ export default function About() {
                 data-aos-easing="ease"
                 data-aos-duration="2200"
               >
-                React JS
+                React
               </div>
               <div
                 className={styles.skill}
@@ -99,14 +99,14 @@ export default function About() {
                 data-aos-easing="ease"
                 data-aos-duration="3000"
               >
-                NodeJS
+                Node JS
               </div>
               <div
                 className={styles.skill}
                 data-aos="zoom-out-up"
                 data-aos-duration="3000"
               >
-                ASP.NET Core
+                .NET Core
               </div>
               <div
                 className={styles.skill}

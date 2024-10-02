@@ -36,7 +36,7 @@ export default function Projects() {
                 <div className={styles.skill}>HTML</div>
                 <div className={styles.skill}>CSS</div>
                 <div className={styles.skill}>JavaScript</div>
-                <div className={styles.skill}>React JS</div>
+                <div className={styles.skill}>React</div>
                 <div className={styles.skill}>GIT</div>
                 <div className={styles.skill}>GitHub</div>
               </div>
@@ -78,7 +78,7 @@ export default function Projects() {
                 <div className={styles.skill}>HTML</div>
                 <div className={styles.skill}>CSS</div>
                 <div className={styles.skill}>JavaScript</div>
-                <div className={styles.skill}>React JS</div>
+                <div className={styles.skill}>React</div>
                 <div className={styles.skill}>GIT</div>
                 <div className={styles.skill}>GitHub</div>
               </div>
