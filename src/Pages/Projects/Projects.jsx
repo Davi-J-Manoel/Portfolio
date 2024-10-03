@@ -94,7 +94,7 @@ export default function Projects() {
                 </a>
                 <a
                   className={styles.gitHubButton}
-                  href="https://github.com/Davi-Manoel/Portfolio"
+                  href="https://github.com/Davi-J-Manoel/Portfolio"
                   target="_blank"
                 >
                   GitHub
