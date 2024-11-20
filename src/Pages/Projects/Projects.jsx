@@ -29,7 +29,7 @@ export default function Projects() {
             <div className={styles.projectsRowContent}>
               <h3 className={styles.projectsRowContentTitle}>Dashboard de Vendas</h3>
               <p className={styles.projectsRowContentDescription}>
-                Dashboard de Vendas
+                O projeto consiste em um dashboard interativo e dinâmico desenvolvido no Power BI, que fornece insights estratégicos sobre o desempenho de vendas de uma empresa fictícia. O objetivo é permitir uma análise clara e intuitiva dos principais indicadores de vendas, ajudando na tomada de decisão.
               </p>
               <div className={styles.skills}>
               <div className={styles.skill}>Power BI</div>
