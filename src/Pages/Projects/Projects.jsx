@@ -33,7 +33,8 @@ export default function Projects() {
               </p>
               <div className={styles.skills}>
               <div className={styles.skill}>Power BI</div>
-                <div className={styles.skill}>Excel</div>
+              <div className={styles.skill}>Excel</div>
+              <div className={styles.skill}>Power Point</div>
               </div>
               <div className={styles.buttons} data-aos="flip-up"
         data-aos-easing="ease"
