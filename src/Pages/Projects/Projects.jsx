@@ -1,6 +1,7 @@
 import styles from "./Projects.module.css";
 import Project1 from "../../Images/Project1.png";
 import Project2 from "../../Images/Project2.png";
+import Project3 from "../../Images/Project3.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -27,6 +28,31 @@ export default function Projects() {
               />
             </div>
             <div className={styles.projectsRowContent}>
+              <h3 className={styles.projectsRowContentTitle}>E-commerce de Jóias em Prata</h3>
+              <p className={styles.projectsRowContentDescription}>
+              O site oferece uma experiência de compra segura e intuitiva. O projeto incluiu a integração de meios de pagamento como pix, cartões de crédito e boleto bancário. O resultado foi um aumento significativo nas vendas online e na satisfação dos clientes. (URL: https://www.sitedomaloka.com.br/).
+              </p>
+              <div className={styles.skills}>
+              <div className={styles.skill}>Power BI</div>
+              <div className={styles.skill}>Excel</div>
+              <div className={styles.skill}>Power Point</div>
+              </div>
+              <div className={styles.buttons} data-aos="flip-up"
+        data-aos-easing="ease"
+        data-aos-duration="1000">
+              </div>
+            </div>
+          </div>
+        <div className={styles.projectsRow}>
+            <div className={styles.rowImgContainer}>
+              <img
+                className={styles.projectsRowImg}
+                src={Project2}
+                alt="Project image"
+                loading="lazy"
+              />
+            </div>
+            <div className={styles.projectsRowContent}>
               <h3 className={styles.projectsRowContentTitle}>Dashboard de Vendas</h3>
               <p className={styles.projectsRowContentDescription}>
                 O projeto consiste em um dashboard interativo e dinâmico desenvolvido no Power BI, que fornece insights estratégicos sobre o desempenho de vendas de uma empresa fictícia. O objetivo é permitir uma análise clara e intuitiva dos principais indicadores de vendas, ajudando na tomada de decisão.
@@ -48,7 +74,7 @@ export default function Projects() {
             <div className={styles.rowImgContainer}>
               <img
                 className={styles.projectsRowImg}
-                src={Project2}
+                src={Project3}
                 alt="Project image"
                 loading="lazy"
               />
