@@ -43,6 +43,8 @@ export default function Projects() {
               </div>
             </div>
           </div>
+          <div className={styles.projectsRow}>
+          </div>
         <div className={styles.projectsRow}>
             <div className={styles.rowImgContainer}>
               <img
