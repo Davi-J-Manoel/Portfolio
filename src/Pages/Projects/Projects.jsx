@@ -28,14 +28,17 @@ export default function Projects() {
               />
             </div>
             <div className={styles.projectsRowContent}>
-              <h3 className={styles.projectsRowContentTitle}>E-commerce de Jóias em Prata</h3>
+              <h3 className={styles.projectsRowContentTitle}>Ecommerce de Jóias Prata 925</h3>
               <p className={styles.projectsRowContentDescription}>
-              O site oferece uma experiência de compra segura e intuitiva. O projeto incluiu a integração de meios de pagamento como pix, cartões de crédito e boleto bancário. O resultado foi um aumento significativo nas vendas online e na satisfação dos clientes. (URL: https://www.sitedomaloka.com.br/).
+              O site oferece uma experiência de compra segura e intuitiva. O projeto incluiu a integração de meios de pagamento como pix, cartões de crédito e boleto bancário. O resultado foi um aumento significativo nas vendas online e na satisfação dos clientes (<a href="https://www.sitedomaloka.com.br/" target="_blank" rel="noopener noreferrer">
+    https://www.sitedomaloka.com.br/
+  </a>).
               </p>
               <div className={styles.skills}>
               <div className={styles.skill}>CSS3</div>
-              <div className={styles.skill}>Nuvemshop</div>
               <div className={styles.skill}>Excel</div>
+              <div className={styles.skill}>Canva</div>
+              <div className={styles.skill}>Nuvemshop</div>
               </div>
               <div className={styles.buttons} data-aos="flip-up"
         data-aos-easing="ease"
