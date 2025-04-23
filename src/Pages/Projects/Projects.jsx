@@ -32,15 +32,6 @@ export default function Projects() {
               <p className={styles.projectsRowContentDescription}>
               O site oferece uma experiência de compra segura e intuitiva. O projeto incluiu a integração de meios de pagamento como pix, cartões de crédito e boleto bancário. O resultado foi um aumento significativo nas vendas online e na satisfação dos clientes. (URL: https://www.sitedomaloka.com.br/).
               </p>
-              <div className={styles.skills}>
-              <div className={styles.skill}>Power BI</div>
-              <div className={styles.skill}>Excel</div>
-              <div className={styles.skill}>Power Point</div>
-              </div>
-              <div className={styles.buttons} data-aos="flip-up"
-        data-aos-easing="ease"
-        data-aos-duration="1000">
-              </div>
             </div>
           </div>
         <div className={styles.projectsRow}>
