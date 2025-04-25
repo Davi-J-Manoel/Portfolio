@@ -36,9 +36,9 @@ export default function Projects() {
               </p>
               <div className={styles.skills}>
               <div className={styles.skill}>CSS3</div>
-              <div className={styles.skill}>Excel</div>
               <div className={styles.skill}>Canva</div>
               <div className={styles.skill}>Nuvemshop</div>
+              <div className={styles.skill}>Excel</div>
               </div>
               <div className={styles.buttons} data-aos="flip-up"
         data-aos-easing="ease"
