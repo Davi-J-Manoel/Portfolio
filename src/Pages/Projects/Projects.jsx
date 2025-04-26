@@ -42,6 +42,20 @@ export default function Projects() {
               <div className={styles.buttons} data-aos="flip-up"
         data-aos-easing="ease"
         data-aos-duration="1000">
+                                <a
+                  className={styles.projectsButton}
+                  href="https://www.sitedomaloka.com.br/"
+                  target="_blank"
+                >
+                  Live Link
+                </a>
+                <a
+                  className={styles.gitHubButton}
+                  href="https://github.com/Davi-J-Manoel"
+                  target="_blank"
+                >
+                  GitHub
+                </a>
               </div>
             </div>
           </div>
