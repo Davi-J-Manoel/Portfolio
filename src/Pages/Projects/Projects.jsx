@@ -35,9 +35,9 @@ export default function Projects() {
   </a>)
               </p>
               <div className={styles.skills}>
-              <div className={styles.skill}>CSS3</div>
-              <div className={styles.skill}>Canva</div>
               <div className={styles.skill}>Nuvemshop</div>
+              <div className={styles.skill}>CSS 3</div>
+              <div className={styles.skill}>Canva</div>
               </div>
               <div className={styles.buttons} data-aos="flip-up"
         data-aos-easing="ease"
@@ -89,10 +89,10 @@ export default function Projects() {
                 Portfolio is the page that you are looking at right now.
               </p>
               <div className={styles.skills}>
-                <div className={styles.skill}>HTML</div>
-                <div className={styles.skill}>CSS</div>
+                <div className={styles.skill}>HTML 5</div>
+                <div className={styles.skill}>CSS 3</div>
                 <div className={styles.skill}>JavaScript</div>
-                <div className={styles.skill}>React</div>
+                <div className={styles.skill}>React JS</div>
                 <div className={styles.skill}>GIT</div>
                 <div className={styles.skill}>GitHub</div>
               </div>
