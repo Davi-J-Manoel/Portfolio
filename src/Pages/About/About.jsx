@@ -52,7 +52,7 @@ export default function About() {
             </div>
           </div>
           <div className={styles.aboutContentSkills}>
-            <h3 className={styles.aboutContentTitle}> My Skills </h3>
+            <h3 className={styles.aboutContentTitle}> My Development Stacks </h3>
             <div className={styles.skills}>
               <div
                 className={styles.skill}
